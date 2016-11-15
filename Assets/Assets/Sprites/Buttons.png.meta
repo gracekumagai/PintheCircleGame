@@ -1,0 +1,316 @@
+fileFormatVersion: 2
+guid: 2182fb23d741467419054fe5c02a12e6
+timeCreated: 1467496342
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Leaderboard
+    21300002: Play Button
+    21300004: Rate
+    21300006: Share
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Leaderboard
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 153
+        width: 298
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -147, y: 77.5}
+        - {x: -149, y: 76.5}
+        - {x: -149, y: -77.5}
+        - {x: 149, y: -77.5}
+        - {x: 149, y: 75.5}
+        - {x: 147, y: 77.5}
+      - - {x: -140, y: -63.5}
+        - {x: 2, y: -8.5}
+        - {x: 141, y: 64.5}
+        - {x: 135, y: -69.5}
+      - - {x: 35, y: -10.5}
+        - {x: 35, y: -65.5}
+        - {x: 51, y: -65.5}
+        - {x: 57, y: -63.5}
+        - {x: 57, y: -18.5}
+        - {x: 54, y: -10.5}
+      - - {x: -132, y: -11.5}
+        - {x: -132, y: -64.5}
+        - {x: -114, y: -64.5}
+        - {x: -114, y: -47.5}
+        - {x: -121, y: -11.5}
+      - - {x: -111, y: -11.5}
+        - {x: -111, y: -64.5}
+        - {x: -93, y: -64.5}
+        - {x: -92, y: -62.5}
+        - {x: -92, y: -11.5}
+      - - {x: -75, y: -11.5}
+        - {x: -82, y: -11.5}
+        - {x: -87, y: -25.5}
+        - {x: -89, y: -44.5}
+        - {x: -89, y: -64.5}
+        - {x: -67, y: -64.5}
+        - {x: -67, y: -51.5}
+        - {x: -72, y: -15.5}
+      - - {x: -64, y: -11.5}
+        - {x: -64, y: -62.5}
+        - {x: -62, y: -64.5}
+        - {x: -47, y: -64.5}
+        - {x: -42, y: -57.5}
+        - {x: -42, y: -13.5}
+        - {x: -48, y: -11.5}
+      - - {x: -38, y: -13.5}
+        - {x: -38, y: -62.5}
+        - {x: -36, y: -64.5}
+        - {x: -21, y: -64.5}
+        - {x: -19, y: -63.5}
+        - {x: -19, y: -11.5}
+        - {x: -36, y: -11.5}
+      - - {x: -16, y: -11.5}
+        - {x: -16, y: -64.5}
+        - {x: 6, y: -64.5}
+        - {x: 6, y: -17.5}
+        - {x: 1, y: -11.5}
+      - - {x: 10, y: -11.5}
+        - {x: 10, y: -62.5}
+        - {x: 12, y: -64.5}
+        - {x: 26, y: -64.5}
+        - {x: 32, y: -57.5}
+        - {x: 32, y: -13.5}
+        - {x: 25, y: -11.5}
+      - - {x: 73, y: -11.5}
+        - {x: 65, y: -11.5}
+        - {x: 59, y: -44.5}
+        - {x: 59, y: -64.5}
+        - {x: 81, y: -64.5}
+        - {x: 81, y: -38.5}
+        - {x: 79, y: -13.5}
+      - - {x: 84, y: -11.5}
+        - {x: 84, y: -64.5}
+        - {x: 106, y: -64.5}
+        - {x: 106, y: -17.5}
+        - {x: 101, y: -11.5}
+      - - {x: 110, y: -11.5}
+        - {x: 110, y: -62.5}
+        - {x: 112, y: -64.5}
+        - {x: 129, y: -64.5}
+        - {x: 132, y: -62.5}
+        - {x: 132, y: -17.5}
+        - {x: 131, y: -11.5}
+      - - {x: -29, y: 32.5}
+        - {x: -41, y: 32.5}
+        - {x: -43, y: 31.5}
+        - {x: -43, y: -1.5}
+        - {x: -30, y: -1.5}
+        - {x: -28, y: 0.5}
+        - {x: -28, y: 30.5}
+      - - {x: 34, y: 32.5}
+        - {x: 34, y: -1.5}
+        - {x: 47, y: -1.5}
+        - {x: 49, y: -0.5}
+        - {x: 49, y: 32.5}
+    - name: Play Button
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 153
+        width: 298
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -147, y: 77.5}
+        - {x: -149, y: 76.5}
+        - {x: -149, y: -77.5}
+        - {x: 149, y: -77.5}
+        - {x: 149, y: 75.5}
+        - {x: 147, y: 77.5}
+      - - {x: -140, y: -63.5}
+        - {x: -135, y: 70.5}
+        - {x: 135, y: 69.5}
+        - {x: 135, y: -69.5}
+      - - {x: -105, y: 68.5}
+        - {x: -110, y: 69.5}
+        - {x: -112, y: 67.5}
+        - {x: -112, y: -65.5}
+        - {x: -110, y: -66.5}
+        - {x: -105, y: -66.5}
+        - {x: 4, y: -3.5}
+        - {x: 6, y: -0.5}
+        - {x: 6, y: 4.5}
+      - - {x: 34, y: 30.5}
+        - {x: 18, y: 30.5}
+        - {x: 18, y: -30.5}
+        - {x: 37, y: -30.5}
+        - {x: 42, y: -13.5}
+        - {x: 42, y: 29.5}
+        - {x: 40, y: 29.5}
+      - - {x: 47, y: -28.5}
+        - {x: 49, y: -30.5}
+        - {x: 68, y: -30.5}
+        - {x: 68, y: -6.5}
+        - {x: 58, y: 30.5}
+        - {x: 49, y: 30.5}
+        - {x: 47, y: 28.5}
+      - - {x: 88, y: 30.5}
+        - {x: 78, y: 30.5}
+        - {x: 76, y: 26.5}
+        - {x: 72, y: -10.5}
+        - {x: 72, y: -30.5}
+        - {x: 97, y: -30.5}
+        - {x: 97, y: 0.5}
+        - {x: 91, y: 29.5}
+      - - {x: 98, y: 30.5}
+        - {x: 97, y: 28.5}
+        - {x: 97, y: 13.5}
+        - {x: 105, y: -30.5}
+        - {x: 116, y: -30.5}
+        - {x: 124, y: 22.5}
+        - {x: 124, y: 30.5}
+    - name: Rate
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 16
+        width: 238
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -119, y: 61.5}
+        - {x: -119, y: -61.5}
+        - {x: 119, y: -61.5}
+        - {x: 119, y: 60.5}
+        - {x: 118, y: 61.5}
+      - - {x: -110, y: 54.5}
+        - {x: 111, y: 51.5}
+        - {x: 108, y: -53.5}
+        - {x: -108, y: -53.5}
+      - - {x: -67, y: 40.5}
+        - {x: -69, y: 39.5}
+        - {x: -69, y: -40.5}
+        - {x: -38, y: -40.5}
+        - {x: -38, y: 31.5}
+        - {x: -46, y: 40.5}
+      - - {x: 3, y: -40.5}
+        - {x: 3, y: -22.5}
+        - {x: -5, y: 39.5}
+        - {x: -8, y: 40.5}
+        - {x: -20, y: 40.5}
+        - {x: -28, y: 31.5}
+        - {x: -29, y: 21.5}
+        - {x: -29, y: -40.5}
+        - {x: -18, y: -40.5}
+        - {x: -16, y: -38.5}
+        - {x: -12, y: -40.5}
+      - - {x: 6, y: 40.5}
+        - {x: 6, y: -28.5}
+        - {x: 7, y: -40.5}
+        - {x: 26, y: -40.5}
+        - {x: 33, y: 6.5}
+        - {x: 33, y: 40.5}
+      - - {x: 41, y: 40.5}
+        - {x: 41, y: -40.5}
+        - {x: 69, y: -40.5}
+        - {x: 69, y: 40.5}
+    - name: Share
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 16
+        width: 236
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -118, y: 61}
+        - {x: -118, y: -61}
+        - {x: 117, y: -61}
+        - {x: 118, y: -60}
+        - {x: 118, y: 61}
+      - - {x: -110, y: -50}
+        - {x: -109, y: 54}
+        - {x: 108, y: 54}
+        - {x: 106, y: -53}
+      - - {x: -93, y: 41}
+        - {x: -93, y: -39}
+        - {x: -91, y: -41}
+        - {x: -65, y: -41}
+        - {x: -62, y: -40}
+        - {x: -62, y: 36}
+        - {x: -63, y: 41}
+      - - {x: -53, y: 40}
+        - {x: -53, y: -40}
+        - {x: -23, y: -40}
+        - {x: -23, y: 40}
+      - - {x: 7, y: 40}
+        - {x: -5, y: 40}
+        - {x: -14, y: -4}
+        - {x: -14, y: -40}
+        - {x: 18, y: -40}
+        - {x: 18, y: -28}
+        - {x: 10, y: 35}
+      - - {x: 26, y: 40}
+        - {x: 26, y: -40}
+        - {x: 57, y: -40}
+        - {x: 57, y: 31}
+        - {x: 54, y: 40}
+      - - {x: 67, y: 40}
+        - {x: 67, y: -40}
+        - {x: 94, y: -40}
+        - {x: 94, y: 40}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

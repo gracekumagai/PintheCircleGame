@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PintheCircle.CSharp", "PintheCircle.CSharp.csproj", "{EDE37736-563D-ED09-EC5F-822FB6BC7EFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDE37736-563D-ED09-EC5F-822FB6BC7EFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDE37736-563D-ED09-EC5F-822FB6BC7EFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDE37736-563D-ED09-EC5F-822FB6BC7EFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDE37736-563D-ED09-EC5F-822FB6BC7EFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
